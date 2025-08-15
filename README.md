@@ -41,7 +41,7 @@ A RAG AI-powered chatbot that can analyze PDF documents and answer questions bas
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/AbdulRehman028/RAG-ChatBot.git
 cd QA-CHAT_BOT
 ```
 
