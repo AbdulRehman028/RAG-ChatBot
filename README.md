@@ -67,8 +67,9 @@ OPENROUTER_API_KEY=your_api_key_here
 ```
  You can add your api key of open router or any other kay available to you 
 
- anthropic api key here = https://console.anthropic.com/login?selectAccount=true&returnTo=%2Fsettings%2Fkeys%3F
+ Anthropic api key here 👉 = https://console.anthropic.com/login?selectAccount=true&returnTo=%2Fsettings%2Fkeys%3F
 
+ OPEN ai key Here 👉 = https://platform.openai.com/api-keys
 
 ### Running the Application
 
