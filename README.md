@@ -19,7 +19,6 @@ A RAG AI-powered chatbot that can analyze PDF documents and answer questions bas
 </tr>
 </table>
 
----
 
 ## ✨ Features
 
