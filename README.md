@@ -139,6 +139,10 @@ streamlit run pdf_qa_chatbot.py
 - The LLM model can be configured via environment variables
 - Document chunks are optimized for context preservation
 
-<br>
 
-                                        Developed By M.Abdulrehman❤️
+## 👨‍💻 Developer
+Developed by **M.Abdulrehman Baig** ❤️
+
+---
+
+⭐ **If you found this project helpful, please give it a star!** ⭐
